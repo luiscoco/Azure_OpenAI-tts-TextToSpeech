@@ -49,10 +49,8 @@ Directory.CreateDirectory(Path.GetDirectoryName(speechFilePath));
 await File.WriteAllBytesAsync(speechFilePath, result.Value.ToArray());
 
 Console.WriteLine("Finished streaming");
+```
 
 ## 3. Run the application and see the results
 
-
-
-
-```
+![image](https://github.com/user-attachments/assets/f077281d-b2f7-40c9-94e6-69798fb83597)
