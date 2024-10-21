@@ -2,7 +2,7 @@
 
 Note: for more information about this sample see the official Microsoft web page
 
-https://learn.microsoft.com/en-us/azure/ai-services/openai/dall-e-quickstart
+https://learn.microsoft.com/en-us/azure/ai-services/openai/text-to-speech-quickstart
 
 ## 1. Create an Azure OpenAI and deploy a tts model
 
