@@ -54,3 +54,7 @@ Console.WriteLine("Finished streaming");
 ## 3. Run the application and see the results
 
 ![image](https://github.com/user-attachments/assets/f077281d-b2f7-40c9-94e6-69798fb83597)
+
+We verify the audio file location in our hard disk
+
+![image](https://github.com/user-attachments/assets/4e0bd094-28a3-404d-a7b3-8bb5b136e8fa)
