@@ -22,6 +22,26 @@ This is the tts model deployment
 
 ## 2. Create C# console application with Visual Studio 2022
 
+We run Visual Studio 2022 and create a new project
+
+![image](https://github.com/user-attachments/assets/a4e3849e-8648-4e9c-b78f-aa2474cf2665)
+
+We select the project template
+
+![image](https://github.com/user-attachments/assets/37af0b2b-8f65-483b-9a8d-78f160ef5fda)
+
+We input the project name and location
+
+![image](https://github.com/user-attachments/assets/c2ff9857-00e3-42ad-bbda-390f7da8cdb7)
+
+We select the **.NET 9** framework and press the create button
+
+![image](https://github.com/user-attachments/assets/68303c1b-9a83-462b-ae19-3fb52d229dd1)
+
+We load the **Nuget packages**:
+
+![image](https://github.com/user-attachments/assets/5c4d9bac-ec01-40ee-a6fe-9571cd4a6cc2)
+
 This is the application source code:
 
 ```csharp
