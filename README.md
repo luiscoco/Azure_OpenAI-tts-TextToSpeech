@@ -1,5 +1,9 @@
 # How to Read a Text with AzureOpenAI
 
+Note: for more information about this sample see the official Microsoft web page
+
+https://learn.microsoft.com/en-us/azure/ai-services/openai/dall-e-quickstart
+
 ## 1. Create an Azure OpenAI and deploy a tts model
 
 We create an Azure OpenAI service
