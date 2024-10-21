@@ -42,7 +42,7 @@ We load the **Nuget packages**:
 
 ![image](https://github.com/user-attachments/assets/5c4d9bac-ec01-40ee-a6fe-9571cd4a6cc2)
 
-This is the application source code:
+This is the application **source code**:
 
 ```csharp
 using Azure;
